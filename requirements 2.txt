@@ -1,0 +1,5 @@
+streamlit
+wrds
+pandas
+numpy
+matplotlib
